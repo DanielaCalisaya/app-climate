@@ -1,13 +1,15 @@
-https://github.com/EricFormar/clima-app.git
+# App Clima
 
-https://openweathermap.org/  <!-- api -->
-https://openweathermap.org/api/geocoding-api
+![cover](clima-app/public/image-readme.png)
 
-npm install axios  <!--  -->
+https://openweathermap.org/  <!-- página que usaremos -->
 
-OPEN1234
+https://openweathermap.org/api/geocoding-api <!-- esta api -->
+
+npm install axios  
 
 const kelvin = 273.15
 
+cd clima-app
 
-
+npm run dev
